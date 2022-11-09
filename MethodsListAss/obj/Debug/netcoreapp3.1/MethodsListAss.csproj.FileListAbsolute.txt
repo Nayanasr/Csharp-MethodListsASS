@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.exe
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.deps.json
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.runtimeconfig.json
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.runtimeconfig.dev.json
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.dll
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\bin\Debug\netcoreapp3.1\MethodsListAss.pdb
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.AssemblyInfo.cs
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.dll
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.pdb
+C:\Users\107012\source\repos\MethodsListAss\MethodsListAss\obj\Debug\netcoreapp3.1\MethodsListAss.genruntimeconfig.cache
